@@ -1,3 +1,4 @@
+
 # Tip_Calculator_Assignment
  
 # Let’s discuss the actual functionality that we are expecting from the application.
@@ -31,3 +32,6 @@
 
 8 The labels placed next will display the tip per person  and total per person amount separately.
 
+Here are the screenshot of the application:
+
+![SS_tipcal](https://user-images.githubusercontent.com/60550123/116788631-4e5f9480-aac8-11eb-83e5-355ab214badb.PNG)
