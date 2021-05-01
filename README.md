@@ -10,8 +10,11 @@
 
 
 #Here is the hierarchy that we have placed for our application.
+
 @ At the top, we have the title for the application. It can be set by changing the text property of the Form.
+
 @ This text box will be used to get the bill amount from the user.
+
 @ In the next series, we have another label and numericUpDown components — this second text box will be used to get the percentage (%) value of the tip from the user.
 @ Below these we have a label with content Tip amount after clicking calculate button, giving expected output into this label.
 @ Below these we have a label name Total after click button which, upon clicking, will calculate the tip value and add it to the bill amount, to give the total bill amount.
